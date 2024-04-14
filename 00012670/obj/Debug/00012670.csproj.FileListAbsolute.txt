@@ -1,0 +1,13 @@
+C:\Users\Dinora\Desktop\BIS6\Semester2\CP\00012670\00012670\bin\Debug\00012670.dll.config
+C:\Users\Dinora\Desktop\BIS6\Semester2\CP\00012670\00012670\bin\Debug\00012670.dll
+C:\Users\Dinora\Desktop\BIS6\Semester2\CP\00012670\00012670\bin\Debug\00012670.pdb
+C:\Users\Dinora\Desktop\BIS6\Semester2\CP\00012670\00012670\obj\Debug\00012670.csproj.AssemblyReference.cache
+C:\Users\Dinora\Desktop\BIS6\Semester2\CP\00012670\00012670\obj\Debug\00012670.csproj.CoreCompileInputs.cache
+C:\Users\Dinora\Desktop\BIS6\Semester2\CP\00012670\00012670\obj\Debug\00012670.dll
+C:\Users\Dinora\Desktop\BIS6\Semester2\CP\00012670\00012670\obj\Debug\00012670.pdb
+C:\Users\Dinora\Desktop\BIS6\Semester2\CP\00012670\00012670\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Dinora\Desktop\BIS6\Semester2\CP\00012670\00012670\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Dinora\Desktop\BIS6\Semester2\CP\00012670\00012670\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Dinora\Desktop\BIS6\Semester2\CP\00012670\00012670\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Dinora\Desktop\BIS6\Semester2\CP\00012670\00012670\obj\Debug\00012670.csproj.App.config
+C:\Users\Dinora\Desktop\BIS6\Semester2\CP\00012670\00012670\obj\Debug\00012670.csproj.CopyComplete
